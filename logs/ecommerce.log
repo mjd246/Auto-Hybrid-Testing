@@ -1,0 +1,8 @@
+14:35:14.777 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+14:35:15.008 [main] INFO  runner.Test_SearchBar - Hover over searchbar
+14:35:16.226 [main] INFO  runner.Test_SearchBar - Values Entered
+14:35:44.145 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+15:14:27.183 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+15:14:27.388 [main] INFO  runner.Test_SearchBar - Hover over searchbar
+15:14:28.438 [main] INFO  runner.Test_SearchBar - Values Entered
+15:14:55.336 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded

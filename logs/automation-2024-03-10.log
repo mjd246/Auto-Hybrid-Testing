@@ -1,0 +1,57 @@
+08:26:06.881 [main] INFO  runner.Test_RegistrationCheck - Entered the PhoneNumber:  9922336606
+08:26:06.961 [main] INFO  runner.Test_RegistrationCheck - Entered the Password:  dadadq17
+08:26:07.031 [main] INFO  runner.Test_RegistrationCheck - Entered the Confirm Password:  dadadq17
+08:26:07.090 [main] INFO  runner.Test_RegistrationCheck - Clicked The Terms and Condition
+08:26:07.161 [main] INFO  runner.Test_RegistrationCheck - Clicked on Final Sign Up button
+08:27:11.153 [main] INFO  runner.Test_RegistrationCheck - Browser opened and Url Loaded
+08:27:11.153 [main] INFO  runner.Test_RegistrationCheck - testScenario1_Ts1_ResistrationCheck--------STARTS
+08:27:12.936 [main] INFO  runner.Test_RegistrationCheck - Clicked UserLogin
+08:27:14.300 [main] INFO  runner.Test_RegistrationCheck - Clicked Sign up inside Sign in page
+08:27:14.962 [main] INFO  runner.Test_RegistrationCheck - Entered the Firstname:  dadaamano
+08:27:15.106 [main] INFO  runner.Test_RegistrationCheck - Entered the Middlename:  adadada
+08:27:15.201 [main] INFO  runner.Test_RegistrationCheck - Entered the LastName:  daad
+08:27:15.309 [main] INFO  runner.Test_RegistrationCheck - Entered the Email:  Mano8
+08:27:15.386 [main] INFO  runner.Test_RegistrationCheck - Entered the PhoneNumber:  9922336608
+08:27:15.475 [main] INFO  runner.Test_RegistrationCheck - Entered the Password:  dadadq19
+08:27:15.555 [main] INFO  runner.Test_RegistrationCheck - Entered the Confirm Password:  dadadq19
+08:27:15.612 [main] INFO  runner.Test_RegistrationCheck - Clicked The Terms and Condition
+08:27:15.696 [main] INFO  runner.Test_RegistrationCheck - Clicked on Final Sign Up button
+08:28:19.161 [main] INFO  runner.TestCheck - Browser opened and Url Loaded
+12:50:49.789 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+12:50:49.972 [main] INFO  runner.Test_SearchBar - Hover over searchbar
+12:50:51.053 [main] INFO  runner.Test_SearchBar - Values Entered
+12:51:18.245 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+12:51:49.354 [main] INFO  runner.Test_RegistrationCheck - Browser opened and Url Loaded
+12:51:49.373 [main] INFO  runner.Test_RegistrationCheck - testScenario1_Ts1_ResistrationCheck--------STARTS
+12:51:51.228 [main] INFO  runner.Test_RegistrationCheck - Clicked UserLogin
+12:51:52.014 [main] INFO  runner.Test_RegistrationCheck - Clicked Sign up inside Sign in page
+12:51:52.678 [main] INFO  runner.Test_RegistrationCheck - Entered the Firstname:  dadaa16
+12:51:52.810 [main] INFO  runner.Test_RegistrationCheck - Entered the Middlename:  adadada
+12:51:52.949 [main] INFO  runner.Test_RegistrationCheck - Entered the LastName:  daad
+12:51:53.075 [main] INFO  runner.Test_RegistrationCheck - Entered the Email:  Mano6
+12:51:53.186 [main] INFO  runner.Test_RegistrationCheck - Entered the PhoneNumber:  9922336606
+12:51:53.288 [main] INFO  runner.Test_RegistrationCheck - Entered the Password:  dadadq17
+12:51:53.376 [main] INFO  runner.Test_RegistrationCheck - Entered the Confirm Password:  dadadq17
+12:51:53.454 [main] INFO  runner.Test_RegistrationCheck - Clicked The Terms and Condition
+12:51:53.536 [main] INFO  runner.Test_RegistrationCheck - Clicked on Final Sign Up button
+12:52:56.882 [main] INFO  runner.Test_RegistrationCheck - Browser opened and Url Loaded
+12:52:56.901 [main] INFO  runner.Test_RegistrationCheck - testScenario1_Ts1_ResistrationCheck--------STARTS
+12:52:58.663 [main] INFO  runner.Test_RegistrationCheck - Clicked UserLogin
+12:53:00.013 [main] INFO  runner.Test_RegistrationCheck - Clicked Sign up inside Sign in page
+12:53:00.675 [main] INFO  runner.Test_RegistrationCheck - Entered the Firstname:  dadaamano
+12:53:00.839 [main] INFO  runner.Test_RegistrationCheck - Entered the Middlename:  adadada
+12:53:00.954 [main] INFO  runner.Test_RegistrationCheck - Entered the LastName:  daad
+12:53:01.060 [main] INFO  runner.Test_RegistrationCheck - Entered the Email:  Mano8
+12:53:01.149 [main] INFO  runner.Test_RegistrationCheck - Entered the PhoneNumber:  9922336608
+12:53:01.250 [main] INFO  runner.Test_RegistrationCheck - Entered the Password:  dadadq19
+12:53:01.341 [main] INFO  runner.Test_RegistrationCheck - Entered the Confirm Password:  dadadq19
+12:53:01.414 [main] INFO  runner.Test_RegistrationCheck - Clicked The Terms and Condition
+12:53:01.499 [main] INFO  runner.Test_RegistrationCheck - Clicked on Final Sign Up button
+14:15:51.649 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+14:15:51.866 [main] INFO  runner.Test_SearchBar - Hover over searchbar
+14:15:52.997 [main] INFO  runner.Test_SearchBar - Values Entered
+14:16:21.826 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+14:30:44.003 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
+14:30:44.216 [main] INFO  runner.Test_SearchBar - Hover over searchbar
+14:30:45.462 [main] INFO  runner.Test_SearchBar - Values Entered
+14:31:12.512 [main] INFO  runner.Test_SearchBar - Browser opened and Url Loaded
